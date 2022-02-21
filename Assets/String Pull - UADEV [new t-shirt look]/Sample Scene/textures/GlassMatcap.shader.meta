@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 2434ad4c3ac883945bdaf3efe7119f8e
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _TopTexture0: {fileID: 2800000, guid: 6b369186fe83c2440a536261a711af5c, type: 3}
+  - _FreezeMask: {fileID: 2800000, guid: 17b4bf3d742fa764388f0c25e60e9f4d, type: 3}
+  - _stencil: {fileID: 2800000, guid: 4e3d2e54a12c1e54ba133929dec483a0, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
